@@ -45,10 +45,4 @@ Hi, I’m **Payoshnee Joshi**, a Machine Learning Engineer and Computer Science 
 ![](https://streak-stats.demolab.com/?user=payoshnee&theme=rose_pine&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=payoshnee&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![](https://komarev.com/ghpvc/?username=payoshnee&icon=0&color=0)](https://visitcount.itsvg.in)
