@@ -711,7 +711,7 @@ export function buildSvg(weeks, options = {}) {
   <text x="24" y="32"><tspan class="hud-label-gold">SCORE: </tspan><tspan class="hud-val-gold">${scoreText}</tspan></text>
 
   <!-- RANK / LEVEL -->
-  <text x="320" y="32"><tspan class="hud-label-cyan">RANK: </tspan><tspan class="hud-val-cyan">LVL 42 · AIML ARCHITECT</tspan></text>
+  <text x="320" y="32"><tspan class="hud-label-cyan">RANK: </tspan><tspan class="hud-val-cyan">LVL 42 · ML ENGINEER</tspan></text>
 
   <!-- COMBO MULTIPLIER -->
   <text x="680" y="32"><tspan class="hud-label-rose">COMBO: </tspan><tspan class="hud-val-rose">x14 SHIPPER</tspan></text>
@@ -753,7 +753,7 @@ ${buildExplosiveImpacts(targets)}
 
 <!-- Bottom HUD Legend & Defense Grid Metadata -->
 ${buildLegend()}
-<text x="${WIDTH - 140}" y="${HEIGHT - 12}" class="hud-meta" text-anchor="end">[ARCADE DEFENSE GRID // SECTOR: PRATIK-FORGE]</text>
+<text x="${WIDTH - 140}" y="${HEIGHT - 12}" class="hud-meta" text-anchor="end">[ARCADE DEFENSE GRID // SECTOR: PAYOSHNEE]</text>
 
 <!-- Dual-Hull Starfighter Jet & Forward Boresight Sighting Laser -->
 ${buildArcadeStarfighter(targets)}
