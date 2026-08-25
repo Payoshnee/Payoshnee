@@ -1,4 +1,4 @@
-<a href="https://github.com/Payoshnee/Payoshnee">
+<a href="https://payoshnee-joshi-portfolio.vercel.app">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Payoshnee/Payoshnee/main/dark.svg?v=1">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Payoshnee/Payoshnee/main/light.svg?v=1">
@@ -6,6 +6,10 @@
   </picture>
 </a>
 <br>
+<p align="center">
+  <a href="https://payoshnee-joshi-portfolio.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/payoshneejoshi/">LinkedIn</a>
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Payoshnee/Payoshnee/main/github-jet.svg?v=1" alt="Payoshnee's GitHub contribution heatmap" width="100%" />
 </p>
