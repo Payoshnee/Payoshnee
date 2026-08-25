@@ -53,7 +53,7 @@
   <text x="24" y="32"><tspan class="hud-label-gold">SCORE: </tspan><tspan class="hud-val-gold">73,000 PTS</tspan></text>
 
   <!-- RANK / LEVEL -->
-  <text x="320" y="32"><tspan class="hud-label-cyan">RANK: </tspan><tspan class="hud-val-cyan">LVL 42 · AIML ARCHITECT</tspan></text>
+  <text x="320" y="32"><tspan class="hud-label-cyan">RANK: </tspan><tspan class="hud-val-cyan">LVL 42 · ML ENGINEER</tspan></text>
 
   <!-- COMBO MULTIPLIER -->
   <text x="680" y="32"><tspan class="hud-label-rose">COMBO: </tspan><tspan class="hud-val-rose">x14 SHIPPER</tspan></text>
@@ -633,7 +633,7 @@
   <text x="189" y="8" class="legend-text">OVERDRIVE</text>
 </g>
 
-<text x="1040" y="328" class="hud-meta" text-anchor="end">[ARCADE DEFENSE GRID // SECTOR: PRATIK-FORGE]</text>
+<text x="1040" y="328" class="hud-meta" text-anchor="end">[ARCADE DEFENSE GRID // SECTOR: PAYOSHNEE]</text>
 
 <!-- Dual-Hull Starfighter Jet & Forward Boresight Sighting Laser -->
 <g id="starfighter">
